@@ -1,6 +1,7 @@
 # Trade-Ahead
 
 Feb 2025 
+
 Google Colab NB, CSV File, Slideshow Presentation 
 
 # Context
